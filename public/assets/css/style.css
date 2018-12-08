@@ -1,0 +1,341 @@
+/*Header css start*/
+a:hover{
+    text-decoration: none;
+}
+section.header {
+    background: #f0c85a;
+}
+.inner-header-right {
+    float: right;
+    padding: 25px 0px;
+}
+.inner-header-right form {
+    background: #323232;
+    padding: 5px;
+    border-radius: 5px;
+}
+.inner-header-right button {
+    background: #323232;
+    border: 0px;
+    color: #fff;
+}
+.inner-cart {
+    padding: 21px 0px;
+}
+.inner-cart p {
+    display: inline-block;
+}
+.custom-titele ul li a {
+    color: #fff;
+    font-size: 16px;
+}
+.custom-titele ul li {
+    list-style-type: none;
+    display: inline-block;
+        padding: 0px 20px;
+}
+.custom-titele ul {
+    float: right;
+    padding: 0px;
+    margin: 0px;
+}
+section.all-page-title {
+    background: #000;
+    padding: 10px 0px;
+}
+.pre-page a {
+    color: #f0c85a !important;
+}
+/*Header css end*/
+/*lOGIN css START*/
+.custom-border-full {
+    border: 1px solid #d6d6d6;
+    margin: 30px 0px;
+    padding: 30px;
+}
+.login-form .form-control {
+    border-radius: 0px;
+    height: 40px;
+}
+.login-form button {
+    font-size: 16px;
+    border-radius: 0px;
+    border: 0px;
+    padding: 10px 24px;
+    background: #e0ac24;
+    color: #000;
+    font-weight: bold;
+}
+.login-form button i {
+    padding-right: 10px;
+}
+.login-form .checkbox {
+    padding: 15px 0px;
+}
+.inner-solcial-right button {
+    width: 200px;
+    text-align: left;
+    padding: 11px 0px;
+    font-size: 19px;
+}
+.inner-solcial-right p i {
+    padding: 0px 25px 0px 25px;
+}
+/*lOGIN css end*/
+
+
+/*FOOTER CSS*/
+.footer-menu {
+    background: #000;
+    text-align: center;
+}
+.footer-menu ul li a {
+    color: #fff;
+    font-size: 16px;
+}
+.footer-menu ul li {
+    float: left;
+    padding: 0px 20px;
+    list-style-type: none;
+}
+.footer-menu ul {
+    display: inline-block;
+    margin: 0;
+    padding: 15px 0px;
+    text-align: center;
+}
+.footer-logo {
+    background: #f0c85a;
+    padding: 20px 0px;
+}
+/* TOPIC PAGE CSS START*/
+.mid-sections {
+    padding: 30px 0px;
+}
+.inner-mid-left ul {
+    border: 1px solid #dca305;
+    padding: 20px;
+}
+.inner-mid-left ul li a {
+    color: #ecae03;
+    font-size: 16px;
+}
+.inner-mid-left ul li {
+    list-style-type: none;
+    padding: 15px 0px 15px 0px;
+}
+.inner-mid-left ul .border-menu {
+    border-bottom: 1px solid #f6c951;
+}
+.inner-img img {
+    width: 100%;
+}
+.inner-right {
+    float: left;
+    width: 100%;
+    border: 1px solid #cdcdcd;
+    padding: 60px 0px 20px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.inner-right-btn button {
+    padding: 5px 8px;
+    color: #ccc;
+}
+.reating-text {
+    background: url(../images/star.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -8px;
+    width: 20%;
+    line-height: 46px;
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    left: 10px;
+}
+/* TOPIC PAGE CSS END*/
+
+/* Mypage 2 PAGE CSS START*/
+.inner-right-new {
+    padding: 20px 20px;
+    border: 1px solid #c5c5c5;
+}
+.inner-mid-left-profile ul {
+    padding: 0px;
+}
+.inner-mid-left-profile ul li {
+    list-style-type: none;
+    padding: 10px 15px;
+    background: #ededed;
+    border-bottom: 1px solid #dcdcdc;
+}
+.active-menu {
+    background: #e2e2e2 !important;
+    border-top: 1px solid #d4d4d4;
+}
+.inner-mid-left-profile ul li a i {
+    float: right;
+    line-height: 25px;
+    color: #e0ac24;
+}
+.inner-mid-left-profile ul li a img {
+    padding-right: 25px;
+}
+.active-menu a i {
+    color: #7a7f83 !important;
+}
+.inner-mid-left-profile ul li a {
+    color: #000;
+}
+.custom-new-btn .delet {
+    background: #646464;
+    color: #fff;
+    font-weight: normal;
+}
+.custom-new-btn .done {
+    background: #e0ac24;
+    color: #fff;
+    font-weight: normal;
+}
+.twitter .btn {
+    background: #58c0e7;
+    width: 200px;
+    color: #fff;
+    border-radius: 3px;
+}
+.facebook .btn {
+    background: transparent;
+    border: 1px solid #646464;
+    border-radius: 3px;
+    color: #646464;
+    border-top: 0px;
+    width: 200px;
+}
+/* Mypage 2 PAGE CSS END*/
+/* 13 W2_my page1_G_info1 css START */
+.inner-right-new-log .login {
+    background: #438dc4;
+    color: #fff;
+}
+.inner-right-new-log {
+    border: 1px solid #c5c5c5;
+    padding: 60px;
+}
+/* 13 W2_my page1_G_info1 css END */
+/* 14 W2_my page1_G_info1 css START */
+.btn-bs-file {
+    position:relative;
+    border-radius: 0px  !important;
+    background: #7a7f83 !important;
+    border-color: #ccc !important;
+}
+.btn-bs-file input[type="file"]{
+    position: absolute;
+    top: -9999999;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    width:0;
+    height:0;
+    outline: none;
+    cursor: inherit;
+}
+#custom-area {
+    height: 60px;
+}
+#custom-area-big {
+    height: 150px;
+}
+.custom-aree-text {
+    float: right;
+    color: #7d7d7d;
+}
+.custom-twi-icon {
+    position: absolute;
+    top: 0px;
+    padding: 10px 15px;
+    background: #b7b7b7;
+    color: #fff;
+}
+#twitter-icon {
+    position: relative;
+}
+/* 14 W2_my page1_G_info1 css END */
+.uplod-big-custom {
+    text-align: center;
+}
+.login-form.new-15 {
+    max-width: 600px;
+    width: 100%;
+    margin: 0px auto;
+}
+.uplod-big-custom .btn-bs-file.btn.btn-lg.btn-primary {
+    padding: 0px !important;
+    background: transparent !important;
+}
+.uplod-big-custom .control-label {
+    width: 100%;
+    clear: both;
+    display: block;
+    text-align: center;
+}
+/*ALL USER CSS START*/
+.custom-all-user {
+    border-radius: 10px;
+    border: 1px solid #d4d4d4;
+}
+
+.custom-all-user:hover {
+    box-shadow: 0px 0px 5px #0000007d;
+}
+.inner-all-user img {
+    width: 100%;
+}
+.inner-text p {
+    color: #000;
+    font-size: 16px;
+}
+.inner-text h3 {
+    color: #efb004;
+}
+.inner-all-user .inner-text {
+    padding: 0px 10px;
+}
+.mag-top {
+    margin-top: 25px;
+}
+a:hover,a:focus{
+    text-decoration: none !important;
+}  
+.clearfix {
+    clear: both;
+}    
+.l-r-padd15 {
+    padding: 0px 15px;
+}    
+/*ALL USER CSS END*/
+/* POPOVER CSS*/
+.inner-popover .modal-header {
+    background: #000;
+        border: 0px;
+}
+.inner-popover .modal-header .close {
+    margin-top: -2px;
+    color: #000;
+    opacity: 1;
+    background: #fff;
+    border-radius: 50%;
+    width: 21px;
+}
+.inner-popover .modal-body img {
+    width: 100%;
+}
+.inner-popover .modal-body {
+    max-height: 270px;
+    overflow-y: scroll;
+    margin: 0px;
+    background: #00000082;
+}
+.inner-popover .modal-content {
+    /*background: transparent;*/
+}
